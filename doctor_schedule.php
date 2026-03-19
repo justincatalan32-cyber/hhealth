@@ -4,7 +4,6 @@
   <h2 class="text-center mb-4">Doctor Schedules</h2>
   <p class="text-center text-muted mb-5">Check the updated schedules of our doctors per service area.</p>
 
-  <!-- Area 1 -->
   <h4 class="mb-3">San Nicolas</h4>
   <div class="table-responsive mb-5">
     <table class="table table-bordered table-hover">
@@ -33,7 +32,6 @@
     </table>
   </div>
 
-  <!-- Area 2 -->
   <h4 class="mb-3">San Vicente</h4>
   <div class="table-responsive mb-5">
     <table class="table table-bordered table-hover">
@@ -62,7 +60,6 @@
     </table>
   </div>
 
-  <!-- Area 3 -->
   <h4 class="mb-3">Santa Cruz</h4>
   <div class="table-responsive mb-5">
     <table class="table table-bordered table-hover">
@@ -91,7 +88,6 @@
     </table>
   </div>
 
-  <!-- Area 4 -->
   <h4 class="mb-3">Baluarte</h4>
   <div class="table-responsive mb-5">
     <table class="table table-bordered table-hover">
