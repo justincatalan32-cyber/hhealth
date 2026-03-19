@@ -38,3 +38,89 @@
 .navbar-custom .nav-link.active {
     font-weight: 700;
 }
+
+/* ── Hero Section ── */
+.hero-section {
+    background: linear-gradient(135deg, #e8f4fd 0%, #d1ecf1 100%);
+    border-radius: 1rem;
+}
+
+/* ── Section Label ── */
+.section-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+/* ── Cards ── */
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+/* ── Doctor Schedule Page ── */
+.schedule-page {
+    background-color: #f0f6ff;
+    min-height: 100vh;
+}
+
+/* ── Services Page ── */
+.services-page {
+    background-color: #f0f6ff;
+    min-height: 100vh;
+}
+
+.service-card {
+    border-top: 4px solid #0d6efd;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+/* ── News anad sa announcements Page ── */
+.news-page {
+    background-color: #f0f6ff;
+    min-height: 100vh;
+}
+
+.news-card {
+    border-top: 4px solid #0d6efd;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+/* ── Page Backgrounds sa login ── */
+.services-page,
+.news-page,
+.schedule-page,
+.login-page {
+    background-color: #f0f6ff;
+    min-height: 100vh;
+}
+/* ── Page Backgrounds ── */
+.services-page,
+.news-page,
+.schedule-page,
+.login-page,
+.register-page {
+    background-color: #f0f6ff;
+    min-height: 100vh;
+}
