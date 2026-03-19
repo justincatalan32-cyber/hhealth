@@ -17,6 +17,18 @@
               <label for="email" class="form-label">Email Address</label>
               <input type="email" class="form-control" id="email" name="email" placeholder="juan@email.com" required>
             </div>
+             <div class="mb-3">
+              <label for="contactNumber" class="form-label">Contact Number</label>
+              <input type="number" class="form-control" id="contactNumber" name="contactNumber" required>
+            </div>
+            <div class="mb-3">
+              <label for="address" class="form-label">Address</label>
+              <input type="text" class="form-control" id="address" name="address" required>
+            </div>
+            <div class="mb-3">
+              <label for="gender" class="form-label">Gender</label>
+              <input type="text" class="form-control" id="gender" name="gender" required>
+            </div>                                   
             <div class="mb-3">
               <label for="password" class="form-label">Password</label>
               <input type="password" class="form-control" id="password" name="password" required>
